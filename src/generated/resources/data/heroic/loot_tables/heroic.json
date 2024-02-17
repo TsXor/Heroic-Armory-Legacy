@@ -1,0 +1,1164 @@
+{
+  "pools": [
+    {
+      "name": "main",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lotrgimlibattleaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lotrgimlilongaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lotrmorgulblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lotrsting"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lotrglamdring"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lotranduril"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lotrnarsil"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lotrsauronmace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lotrwitchkingsword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "heroic:lozmastersword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "heroic:lozmasterswordii"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:loztemperedsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozmasterswordiii"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozgoldensword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozflameblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozdarknutswordtp"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozghirahimsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozfiercedietysword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozzeldasword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozbokostick"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozcaneofbyrna"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozmegatonhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozkokiriswordmm"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozkokiriswordoot"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozdemisesword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozgiantknife"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozbiggoronsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozphantomganonsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozultimatesword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozroyalguardsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozmagicswordconcept"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozmagicsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozwhitesword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozwhiteswordconcept"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozpicoriblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozrazorsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozgreatfairysword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "heroic:lozgoddesswhitesword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "heroic:lozgoddesssword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozgildedsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozspikedbokoclub"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:lozbokoclub"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:atjakesword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:atcrystalsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:atnothung"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:atfinnsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:atswordofthedead"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:atwishstarsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:atfightkingsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:atrootsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:atscarlet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:atgrasssword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:atdemonbloodsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:ataxebass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:ffthemasamune"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:ffbustersword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:ffcaladbolg"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgswordofthecolossus"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgcrystalsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgpixieenchantedsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgswordofacclaim"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgdemonblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgswordofthemadgod"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgindomptable"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgpiratekingcutlass"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "heroic:rotmgswordofsplendor"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "heroic:rotmgskysplittersword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgarchonsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgancientstonesword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgdragonsoulsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rotmgravenheartsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scfirangi"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:sccocytus"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scerlangblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scsouledgenightmare"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scphlegathon"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scacheron"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:sclethe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scqueenguard"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scholyantler"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scepee"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:sckalutues"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scestoc"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scflambert2p"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:screiterpallasch"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scflambert"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scbluecrystalrod"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scfireblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scxisword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scomegasword2p"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scomegasword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scorichalcum"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "heroic:scstiletto"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "heroic:screquiem"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scfaust"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scflamberge"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scsteelpaddle"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scglam"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:scgreatblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsbronzesword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsironsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rswhitesword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsblacksword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rssteelsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsmithrilsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsadamantsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsrunesword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsdragonsword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "heroic:rsbronzebattleaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "heroic:rsironbattleaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rssteelbattleaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsblackbattleaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rswhitebattleaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsmithrilbattleaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsadamantbattleaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsrunebattleaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsdragonbattleaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsbronzescimitar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsironscimitar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsblackscimitar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rswhitescimitar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rssteelscimitar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsmithrilscimitar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsadamantscimitar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsrunescimitar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsdragonscimitar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsbronzewarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsironwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rssteelwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsblackwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rswhitewarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsmithrilwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsadamantwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsrunewarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsbronzemace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsironmace"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "heroic:rssteelmace"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "heroic:rsblackmace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rswhitemace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsmithrilmace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsadamantmace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsrunemace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsgranitelongsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsgranitehammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsgranitemaul"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rseldermaul"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rstoktzxilak"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rswolfsbane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rszamorakgodsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsbandosgodsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsarmadylgodsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rssaradomingodsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:rsbarrelchestanchor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:dmcredqueen"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:dmcrebellion"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:dmcyamato"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:pkmnhonedgeshiny"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:pkmnhonedge"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:kirbygalaxia"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:kirbykirbyultrasword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:kirbykirbysword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:fechromfalchion"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:fefalchion"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:khkeyblade"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "heroic:bleachzabimaru"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "heroic:bleachzangestsu"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:dsgreatswordofartorias"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:dsgreatlordgreatsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:dsastoragreatsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:dszweilhander"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mythdeathscythe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:myththedevilpitchfork"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:bayonettashuraba"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:bayonettaangelslayer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:gowleviathanupgraded"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:gowleviathan"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:gowbladeofolympus"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:gowbladeofchaos"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimironsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimironwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimsteelsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimsteelwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimorcishsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimorcishwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimdwarvensword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimdwarvenwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimelvensword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimelvenwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimglasssword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimglasswarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimebonysword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimebonywarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimdaedricsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimdaedricwarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimdragonbonesword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimdragonbonewarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimimperialsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimdawnbreaker"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimancientnordsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:skyrimchillrend"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "heroic:skyrimebonyblade"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "heroic:mhchickendecapitator"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhgolemblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhdefender"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhblackbeltblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhwailingcleaver"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhgaelicflame"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhbonekatana"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhhellishslasher"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhcentenariandagger"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhwyvernbladeblood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhwyvernbladeholly"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhwyvernbladepale"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhwyvernbladeazure"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhwyvernbladeleaf"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:mhrathalosflamesword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "heroic:terrariapalmwoodsword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "heroic:terrariaborealwoodsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariashadewoodsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaebonwoodsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariacoppershortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariacopperbroadsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariatinshortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariatinbroadsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrarialeadshortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrarialeadbroadsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaspear"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaironshortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaironbroadsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariasilverbroadsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariasilvershortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariagoldshortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariagoldbroadsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariatungstenbroadsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariatungstenshortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaplatinumshortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaplatinumbroadsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariamandibleblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariakatana"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaexoticscimitar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariamuramasa"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariafalconblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariabladeofgrass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariafierygreatsword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "heroic:terrariabonesword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "heroic:terrariabloodbutcherer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaenchantedsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariastarfury"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariabeekeeper"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaiceblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrarianightedge"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaarkhalis"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariatrident"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariatherottedfork"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariawhitephaseblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariayellowphaseblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariapurplephaseblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariagreenphaseblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaredphaseblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariabluephaseblade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrarialightbane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariadarklance"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariapurpleclubberfish"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariacactussword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:terrariaswordfish"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:swyellowlightsaber"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:swgreenlightsaber"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:swbluelightsaber"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:swredlightsaber"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:swmacewindulightsaber"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:swtheinquisitorlightsaber"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:swdarthmaullightsaber"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "heroic:swquigonjinnlightsaber"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "heroic:swkylorenlightsaber"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:swcountdookulightsaber"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:swdarksaber"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:internetdemonoidpitchfork"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:nhmagicbane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:nhathame"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:nhgrayswandir"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:nhsilversaber"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "heroic:abcmexcalibur"
+        }
+      ]
+    }
+  ]
+}

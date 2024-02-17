@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "heroic:item/at/demon_blood_sword"
+  }
+}

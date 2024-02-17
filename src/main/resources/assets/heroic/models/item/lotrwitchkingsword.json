@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "heroic:item/lotr/witch_king_sword"
+  }
+}
